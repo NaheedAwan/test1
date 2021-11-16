@@ -1,0 +1,13 @@
+span {
+  display : inline-block;
+border:1px solid black;
+}
+#one{
+  height:200px
+}
+#two{
+  height:300px
+}
+#three{
+  height:400px
+}
